@@ -1,0 +1,29 @@
+{
+  "content": {
+    "result": [
+      {
+        "courseStatisticsDto": {
+          "times": 3,
+          "persons": 1,
+          "courseCode": ""
+        },
+        "courseAddressDto": {},
+        "endDate": 1460590552000,
+        "startDate": 1460590552000,
+        "name": "Example Course"
+      },
+      {
+        "courseStatisticsDto": {
+          "times": 3,
+          "persons": 1,
+          "courseCode": ""
+        },
+        "courseAddressDto": {},
+        "endDate": 1460590552000,
+        "startDate": 1460590552000,
+        "name": "Example Course"
+      }
+    ],
+    "type": "offline"
+  }
+}
